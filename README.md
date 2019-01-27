@@ -1,0 +1,1 @@
+Wireless adapter for a fly sumulator with DSMX input (VBAR Control transmitter version).
